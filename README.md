@@ -21,4 +21,4 @@ It is possible to change which metrics appear in the chart, to do this enter a 1
 
 
 ## Next Steps
-We welcome discussion and ideas on developing this model and would be interested to hear if others find it useful. Please get in touch 
+We welcome discussion and ideas on developing this model and would be interested to hear if others find it useful. Please get in touch. 
