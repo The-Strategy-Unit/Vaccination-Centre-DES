@@ -11,7 +11,7 @@ Instructions on use of the Strategy Unit model and excel file can be found here:
 If you want to run the model on your computer you will need to have JaamSim installed to run the model and Excel to analyse the results using our template. 
 Click [here](https://jaamsim.com/downloads.html) to choose the appropriate version of the JaamSim program to download and install. Detailed instructions on installation and using JaamSim can be found in the [JaamSim manual](https://jaamsim.com/docs/JaamSim%20User%20Manual%202021-01.pdf). Please ensure that you have an appropriate version of Java and your graphics drivers are up to date.
 
-### Model. 
+### Model
 SU VacCentre DES 2021-01-29.cfg file can be dowloaded and opened in JaamSim. The parameters can be changed on screen and when run the model produces a .dat file of the results. The .cfg file can also be edited if you want to adapt the model.
 
 ### Excel Output
