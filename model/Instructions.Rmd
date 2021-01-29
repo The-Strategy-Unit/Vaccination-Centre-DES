@@ -1,1 +1,4 @@
+## 1. Install JaamSim
+JaamSim is an open source discrete event simulation software that does not require a license. To run the model you will need to install JaamSim following the instructions in the manual (see link below). Please ensure that you have an appropriate version of Java and your graphics drivers are up to date, (if you have problems please also try the 32 bit JaamSim even if you have a 64 bit machine as this has resolved issues for some people). Once installed when you open JaamSim you should see this default screen: --->				
+
 
