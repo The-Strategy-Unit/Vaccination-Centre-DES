@@ -3,7 +3,7 @@ Modelling of Discrete Event Simulation (DES) for vaccination centres
 
 This repository is for creating DES models of COVID-19 vaccination centres. The model was initially built by Wolverhampton ICS but was then developed and parameterised into a more generic model by the Strategy Unit Team. 
 
-## Repository structure
+## Project summary
 ### Instructions
 Instructions on use of the Strategy Unit model and excel file can be found here: xxxx
 
