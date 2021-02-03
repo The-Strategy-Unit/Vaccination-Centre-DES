@@ -5,7 +5,7 @@ This repository is for creating DES models of COVID-19 vaccination centres. This
 
 ## Project summary
 ### Instructions
-Instructions on use of the Strategy Unit model and excel file can be found here: xxxx
+Instructions on use of the Strategy Unit model and excel file can be found in the [ModelFiles](https://github.com/The-Strategy-Unit/Vaccination-Centre-DES/tree/main/ModelFiles) folder.  
 
 ### Prerequisites
 If you want to run the model on your computer you will need to have JaamSim installed to run the model and Excel to analyse the results using our template. 
